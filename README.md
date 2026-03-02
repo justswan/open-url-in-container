@@ -44,11 +44,11 @@ The signing key is hidden in the extension popup behind a couple of clicks. Here
 
 **Step 2.** Click the **"Signing key"** button:
 
-![Step 2 — click Signing key button](./docs/images/signing-key-step2.png)
+<img src="./docs/images/signing-key-step2.png" width="380">
 
 **Step 3.** The key is displayed in the text field. Copy it — you'll need it for the launcher script or your own integrations:
 
-![Step 3 — copy the key](./docs/images/signing-key-step3.png)
+<img src="./docs/images/signing-key-step3.png" width="380">
 
 ## Examples
 
